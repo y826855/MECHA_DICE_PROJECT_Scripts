@@ -15,3 +15,6 @@
 - 데이터 인스턴싱, 전투
 - 텍스트 이벤트 구성
 - ETC(맵구성, 스캐쥴, 몬스터)
+
+[텍스트이모지링크](https://www.emojiengine.com/ko/keyboard#google_vignette)
+테스트중입니다
