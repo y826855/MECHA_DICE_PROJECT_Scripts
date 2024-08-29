@@ -10,13 +10,12 @@
 
 
 ## 기술 소개. doc
-- 주사위 맵, yatch 조건체크
 - [MY스크립터블 오브젝트](https://nextblue.itch.io/the-mecha-dice)
-  - 이거지
-  
-- 데이터 인스턴싱, 전투
-- 텍스트 이벤트 구성
-- ETC(맵구성, 스캐쥴, 몬스터)
+- [이벤트 구성](https://nextblue.itch.io/the-mecha-dice)
+- [카드와 디스크](https://nextblue.itch.io/the-mecha-dice)
+- [스캐쥴 맵 관리](https://nextblue.itch.io/the-mecha-dice)
+- [몬스터](https://nextblue.itch.io/the-mecha-dice)
+- [게임패드 NewInputSystem 설정] (https://docs.google.com/document/d/1-ZWEU0ahF1pIdYARa7znDEbgDG0TG6oxDRTsOtC_Z4k/edit)
 
 [텍스트이모지링크](https://www.emojiengine.com/ko/keyboard#google_vignette)
 테스트중입니다
