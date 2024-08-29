@@ -6,11 +6,11 @@
 - 데모 플레이 : [LIVE DEMO](https://nextblue.itch.io/the-mecha-dice)
 
 ## 개발과정 소개
-- PPT URL(https://docs.google.com/presentation/d/1wM6Oeltmv9LeAScz0hsvSWhVu2X6mjr44uaJsrpMlS8/edit#slide=id.g2f24bb836ec_1_13)
+- [PPT URL](https://docs.google.com/presentation/d/1wM6Oeltmv9LeAScz0hsvSWhVu2X6mjr44uaJsrpMlS8/edit#slide=id.g2f24bb836ec_1_13)
 
 
 ## 기술 소개. doc
-- [[MY스크립터블 오브젝트]](https://docs.google.com/document/d/1CcuWRHEV6t9l_o4bld-psZl8tLpX03G86P25Z2kciv0/edit)
+- [MY스크립터블 오브젝트](https://docs.google.com/document/d/1CcuWRHEV6t9l_o4bld-psZl8tLpX03G86P25Z2kciv0/edit)
 - [이벤트 구성 텍스트 애니메이터](https://docs.google.com/document/d/1Lo5EaoL_xZBTYtGHkyhi7cN6JMbKG2JDdjarVKF4jL8/edit)
 - [카드와 디스크](https://docs.google.com/document/d/10C7zv9St6_2COWPQDfQ3Mu1HAJZAo0wQ4jtfoJ7v2RM/edit)
 - [스캐쥴 설정](https://docs.google.com/document/d/1ueTbumY9yg8aZuVy-GWz4IOc5dl_c60Q4wDnep9eOwY/edit)
