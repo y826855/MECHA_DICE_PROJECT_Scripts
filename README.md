@@ -16,9 +16,10 @@
 - [카드와 디스크](https://docs.google.com/document/d/10C7zv9St6_2COWPQDfQ3Mu1HAJZAo0wQ4jtfoJ7v2RM/edit)
 - [스캐쥴 설정](https://docs.google.com/document/d/1ueTbumY9yg8aZuVy-GWz4IOc5dl_c60Q4wDnep9eOwY/edit)
 - [몬스터](https://docs.google.com/document/d/1ZvQQB-dljbtpMmBinqAtbwDbJUU7LwmdgfdGSNRSvr4/edit)
+- [공격과 피격](https://docs.google.com/document/d/11oVbmwtJ8yyPTtTG1WurHftBkATG1leKbPGNV04zSMs/edit)
 
 
-- [게임패드 NewInputSystem 설정](https://docs.google.com/document/d/1-ZWEU0ahF1pIdYARa7znDEbgDG0TG6oxDRTsOtC_Z4k/edit)
+- [게임패드 NewInputSystem 설정(실패함)](https://docs.google.com/document/d/1-ZWEU0ahF1pIdYARa7znDEbgDG0TG6oxDRTsOtC_Z4k/edit)
 
 
 [텍스트이모지링크](https://www.emojiengine.com/ko/keyboard#google_vignette)
