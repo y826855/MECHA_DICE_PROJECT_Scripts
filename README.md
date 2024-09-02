@@ -1,4 +1,3 @@
-//참조 URL(https://github.com/kimphysicsman/portfolio)
 
 ## MECHA DICE PROJECT
 - 프로그래머 : 최배성 (ChoiBaeSeong)
